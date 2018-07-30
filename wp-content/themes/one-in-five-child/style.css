@@ -120,13 +120,7 @@ margin-top: 10px; margin-right: 5px;}
 .page-id-59 h1 { display: none;}
 .ours-story-section { text-align: center; border: 5px solid #b6b7bc; background-repeat: repeat; margin-top: 50px; padding-right: 6%;
 padding-left: 6%;}
-.ours-story-section h2 { margin-top: -.9em; font-weight: 700; font-style: italic;
-    position: relative; color: #00a3dd;
-    padding: 0 1.5625em;
-    background: #fff;
-    display: inline-block;
-    vertical-align: top;
-}
+.ours-story-section h2 { margin-top: -.9em; font-weight: 700; font-style: italic; position: relative; color: #00a3dd; padding: 0 1.5625em; background: #fff; display: inline-block; vertical-align: top;}
 .os-section1 { font-weight: 700; font-size: 21px; font-style: italic; line-height: 31px; letter-spacing: 2px; padding-top: 16px;}
 .os-section2 { margin: 23px 0; font-weight: 600; padding-bottom: 28px; line-height: 28px; font-size: 15px;}
 .border-pexels{ border-top: solid 4px #343E47; padding-top: 16px;}
@@ -156,8 +150,6 @@ padding-left: 6%;}
 .contactform .Message textarea{ height: 200px;}
 .contactform .wpcf7-submit { padding: 9px 4px !important; width: 100px; display: inline-block; font-weight: 600;}
 .contactform ul { margin-left: 0;}
-
-
 #tabs {overflow: hidden;width: 100%;margin: 0;padding: 0;list-style: none;font:12px Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif}
 #tabs li {float: left; margin: 2px 3.94% 17px 0; width: 95px;}
 #tabs a {position: relative;background: none;padding:0;float: left;	text-decoration: none;color: #fff;font-size: 13px;font-weight: bold;}
@@ -323,8 +315,7 @@ width: 228px !important;}
 .donate-blue p {text-align: left !important; display: block;}
 .donate-blue .wpb_text_column.wpb_content_element{ margin-bottom: 0;}
 }
-@media screen and (max-width: 580px) {
-	
+@media screen and (max-width: 580px) {	
 	.testimonial_rotator_img.img img {  display: none;}
 	.testimonial_rotator.template-default .has-image .text, .testimonial_rotator_single.has-image.template-default .text{ width: 100%;}
 	#site_top .col-lg-5.col-md-5.col-sm-4{ max-width: inherit; margin: 0 auto; }
@@ -339,23 +330,21 @@ width: 228px !important;}
 	header .menubar .col-lg-2.col-md-3 { max-width: 212px;}
 	#tabs li img{ width: 60px !important;}
 	#tabs li{ width: 53px;}
-	.title-box img{ margin-top: 0;}
-	
+	.title-box img{ margin-top: 0;}	
 }
 @media screen and (max-width: 420px) {
-	
-	.testimonial-list, .testimonial_rotator_wrap{ width: 98%;}
-	#header .menubar .col-lg-7.col-md-6.col-3.right_menu{ float: none; position:absolute; right:0;}
+.testimonial-list, .testimonial_rotator_wrap{ width: 98%;}
+#header .menubar .col-lg-7.col-md-6.col-3.right_menu{ float: none; position:absolute; right:0;}
 #header .menubar .col-lg-2.col-md-3 { width: 200px; float: none; padding-top: 0; margin: 0 auto;}
 #header .menubar .col-lg-3.col-md-3.col-9 { float: none; margin: 0 auto; display: block; width: 100%; max-width: 100% !important; flex: inherit !important; text-align: center;}
 #header .menubar .col-lg-2.col-md-3{ width: 200px !important; max-width: 100% !important;}
 .container { width: 98%; max-width: 98%;margin:0 auto;}
 }
 @media screen and (max-width: 400px) {
-	.container{ width: 89%; max-width: 94%;}
+.container{ width: 89%; max-width: 94%;}
 #header .menubar .btn-primary { margin-top: 20px !important; margin-left: 39px;}
 .meet-our-board-icons{ width: 100px;}
 .cd-timeline-block { width: 100% !important;}
-	.cd-container { width: 100%;}
+.cd-container { width: 100%;}
 }
 
