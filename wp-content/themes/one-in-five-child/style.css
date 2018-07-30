@@ -150,6 +150,7 @@ padding-left: 6%;}
 .contactform .Message textarea{ height: 200px;}
 .contactform .wpcf7-submit { padding: 9px 4px !important; width: 100px; display: inline-block; font-weight: 600;}
 .contactform ul { margin-left: 0;}
+.contactform input {  padding-left: 10px;}
 #tabs {overflow: hidden;width: 100%;margin: 0;padding: 0;list-style: none;font:12px Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif}
 #tabs li {float: left; margin: 2px 3.94% 17px 0; width: 95px;}
 #tabs a {position: relative;background: none;padding:0;float: left;	text-decoration: none;color: #fff;font-size: 13px;font-weight: bold;}
