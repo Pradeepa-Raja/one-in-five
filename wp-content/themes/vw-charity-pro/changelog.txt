@@ -1,0 +1,13 @@
+Version 1.0
+
+i) Initial Version Release
+
+Version 1.1
+
+i) Updated Cistomizer Settings
+
+Version 1.2 - 10 July 2018
+
+i) Fixed Customizer issues
+ii) Updated review Box on Wordpress Admin
+iii) Fixed responsive Issues

@@ -1,0 +1,1626 @@
+# <!=Copyright (C) 2017 VW Themes
+# This file is distributed under the GNU General Public License.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: VW Charity Pro 1.0.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-28 15:32:59+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: VW Themes <info@vwthemes.com>\n"
+"Language-Team: \n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: ../../vw-charity-pro\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: grunt-wp-i18n1.0.0\n"
+
+#: 404.php:23
+msgid "404 Not Found"
+msgstr ""
+
+#: 404.php:24
+msgid "Looks like you have taken a wrong turn &hellip; Don\'t worry &hellip; it happens to the best of us."
+msgstr ""
+
+#: 404.php:27 no-results.php:22
+msgid "Back to Home Page"
+msgstr ""
+
+#: archive.php:34 #: category.php:46 #: index.php:24 #:searchform.php:29
+#:tag.php:32
+msgid "Previous page"
+msgstr ""
+
+#: archive.php:35 #: category.php:47 #: index.php:25 #:searchform.php:30
+#:tag.php:33
+msgid "Next page"
+msgstr ""
+
+#: archive.php:36 #: category.php:48 #: index.php:26 #:searchform.php:31
+#:tag.php:34
+msgid "Page"
+msgstr ""
+
+#: comments.php:41 #: comments.php:59
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:43 #: comments.php:61
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:44 #: comments.php:62
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:70
+msgid "Comments are closed."
+msgstr ""
+
+#: content.php:28 
+msgid "Read More &raquo;"
+msgstr ""
+
+#: content.php:32 #: functions.php:555
+msgid "Continue reading"
+msgstr ""
+
+#: content.php:35 #: image.php:57
+msgid "Pages:"
+msgstr ""
+
+#: functions.php:59
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:60 
+msgid "Left Menu"
+msgstr ""
+
+#: functions.php:61
+msgid "Right Menu"
+msgstr ""
+
+#: functions.php:62
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:76
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:77
+msgid "Appears on blog page sidebar"
+msgstr ""
+
+#: functions.php:85
+msgid "Page Sidebar"
+msgstr ""
+
+#: functions.php:86
+msgid "Appears on page sidebar"
+msgstr ""
+
+#: functions.php:94
+msgid "Footer Column 1"
+msgstr ""
+
+#: functions.php:95 #: functions.php:104 #: functions.php:113 #: functions.php:122
+msgid "Appears on footer"
+msgstr ""
+
+#: functions.php:103
+msgid "Footer Column 2"
+msgstr ""
+
+#: functions.php:112
+msgid "Footer Column 3"
+msgstr ""
+
+#: functions.php:121
+msgid "Footer Column 4"
+msgstr ""
+
+#: functions.php:490
+msgid "Design & Developed by"
+msgstr ""
+
+#: functions.php:567
+msgid "Recent Posts"
+msgstr ""
+
+#: image.php:35 image.php:62
+#: page-template/contact.php:61
+msgid "Edit"
+msgstr ""
+
+#: image.php:39 #:single-causes.php:67 #:single-donator.php:38
+#:single-events.php:39 #:single-team.php:45 #:single-testimonial.php:31
+#:single.php:67
+#: template-parts/home/slider.php:66
+msgid "Previous"
+msgstr ""
+
+#: image.php:40 #:single-causes.php:64 #:single-donator.php:35
+#:single-events.php:36 #:single-team.php:42 #:single-testimonial.php:28
+#:single.php:64
+#: template-parts/home/slider.php:70
+msgid "Next"
+msgstr ""
+
+#:no-results.php:11
+msgid "Nothing Found"
+msgstr ""
+
+#:no-results.php:14
+msgid "Ready to publish your first post?"
+msgstr ""
+
+#:no-results.php:16
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#:no-results.php:19
+msgid "Don\'t worry &hellip; it happens to the best of us."
+msgstr ""
+
+#:searchform.php:10
+msgid "Search &hellip;', 'placeholder"
+msgstr ""
+
+#:searchform.php:12
+msgid "Search', 'submit button"
+msgstr ""
+
+#:sidebar.php:11
+msgid "Archives"
+msgstr ""
+
+#:sidebar.php:17
+msgid "Meta"
+msgstr ""
+
+#:single-causes.php:42
+#: template-parts/home/causes.php:71
+msgid "Raised:"
+msgstr ""
+
+#:single-causes.php:51
+#: template-parts/home/causes.php:80
+msgid "Goal:"
+msgstr ""
+
+#:single-causes.php:65 #:single-donator.php:36 #:single-events.php:37
+#:single-team.php:43 #:single-testimonial.php:29 #:single.php:65
+msgid "Next post:"
+msgstr ""
+
+#:single-causes.php:68 #:single-donator.php:39 #:single-events.php:40
+#:single-team.php:46 #:single-testimonial.php:32 #:single.php:68
+msgid "Previous post:"
+msgstr ""
+
+#:single-donator.php:25
+msgid "Designation:"
+msgstr ""
+
+#:single-donator.php:28
+#: template-parts/home/donators.php:50
+msgid "Donated:"
+msgstr ""
+
+#:single-team.php:24
+#: inc/customizer-part-footer.php:177
+#: inc/customizer-part-footer.php:191
+#: page-template/contact.php:45
+msgid "Email"
+msgstr ""
+
+#:single-team.php:27
+msgid "Call:"
+msgstr ""
+
+#:single.php:52
+msgid "Categories:"
+msgstr ""
+
+#:single.php:52
+msgid "Tags:"
+msgstr ""
+
+#:single.php:34
+msgid "Share:"
+msgstr ""
+
+#:single.php:26
+msgid "Comments"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:337
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:339
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:349 
+msgid "This theme recommends the following plugin: %1$s."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:343 
+msgid "This theme requires the following plugin: %1$s."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:344
+msgid "This theme requires the following plugins: %1$s."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:350
+msgid "This theme recommends the following plugins: %1$s."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:355 
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:356
+msgid "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:362
+msgid "There is an update available for: %1$s."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:363
+msgid "There are updates available for the following plugins: %1$s."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:368
+msgid "The following required plugin is currently inactive: %1$s."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:369
+msgid "The following required plugins are currently inactive: %1$s."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:375
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:376
+msgid "The following recommended plugins are currently inactive: %1$s."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:380
+msgid "Begin installing plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:381
+msgid "Begin installing plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:385
+msgid "Begin updating plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:386
+msgid "Begin updating plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:390
+msgid "Begin activating plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:391
+msgid "Begin activating plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:394
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:395
+#: inc/class-tgm-plugin-activation.php:914 
+#: inc/class-tgm-plugin-activation.php:2620 
+#: inc/class-tgm-plugin-activation.php:3667
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:396
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:397
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:399
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:401
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:403
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:405
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:406
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:609
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:610
+msgid "Update Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1021
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1021 
+#: inc/class-tgm-plugin-activation.php:1024
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1024
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1208 
+#: inc/class-tgm-plugin-activation.php:3035
+msgid "and', 'plugin A *and* plugin B" 
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2069
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2360
+msgid "Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2363
+msgid "Recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2379
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2382
+msgid "External Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2385
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2402
+msgid "Not Installed"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2406
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2408
+msgid "Active"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2414
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2417
+msgid "Requires Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2420
+msgid "Update recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2429
+msgid "%1$s, %2$s', 'Install/Update Status"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2479
+msgid "To Install <span class="count">(%s)</span>', 'To Install <span class="count">(%s)</span>', $count
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2475
+msgid "All <span class="count">(%s)</span>', 'All <span class="count">(%s)</span>', $count, 'plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2483
+msgid "Update Available <span class="count">(%s)</span>', 'Update Available <span class="count">(%s)</span>', $count"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2487
+msgid "To Activate <span class="count">(%s)</span>', 'To Activate <span class="count">(%s)</span>', $count"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2569
+msgid "unknown', 'as in: "version nr unknown"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2577
+msgid "Installed version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2585
+msgid "<span style="min-width: 32px; text-align: right; float: right;">%1$s</span>' . __( 'Minimum required version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2597
+msgid "Available version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2620
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2634
+msgid "Plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2635
+msgid "Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2637
+msgid "Type"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2640
+msgid "Version"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2641
+msgid "Status"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2690
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2695
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2701
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2771
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2804
+msgid "Install"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2810
+msgid "Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2813
+msgid "Activate"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2846 
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2889
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2995 
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3021
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3039
+msgid "The following plugin was activated successfully:', 'The following plugins were activated successfully:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3245
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3246
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3585
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3588
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3590
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3594
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3596
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3596 
+#: inc/class-tgm-plugin-activation.php:3604
+msgid "Show Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3596 
+#: inc/class-tgm-plugin-activation.php:3604
+msgid "Hide Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3597
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3599
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3602
+msgid "The installation process is starting. This proces may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3604
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3605
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3607
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/customizer-custom-variables.php:4 
+#: inc/customizer-custom-variables.php:5
+msgid "Typography settings"
+msgstr ""
+
+#: inc/customizer-custom-variables.php:17
+msgid "Body Font family"
+msgstr ""
+
+#: inc/customizer-custom-variables.php:27
+msgid "font size in px"
+msgstr ""
+
+#: inc/customizer-custom-variables.php:38
+msgid "Body color"
+msgstr ""
+
+#: inc/customizer-custom-variables.php:50
+msgid "H1"
+msgstr ""
+
+#: inc/customizer-custom-variables.php:60
+msgid "H1 font size in px"
+msgstr ""
+
+#: inc/customizer-custom-variables.php:71
+msgid "H1 color"
+msgstr ""
+
+#: inc/customizer-custom-variables.php:83
+msgid "H2"
+msgstr ""
+
+#: inc/customizer-custom-variables.php:93
+msgid "H2 font size in px"
+msgstr ""
+
+#: inc/customizer-custom-variables.php:104
+msgid "H2 color"
+msgstr ""
+
+#: inc/customizer-custom-variables.php:117
+msgid "H3"
+msgstr ""
+
+#: inc/customizer-custom-variables.php:127
+msgid "H3 font size in px"
+msgstr ""
+
+#: inc/customizer-custom-variables.php:138
+msgid "H3 color"
+msgstr ""
+
+#: inc/customizer-custom-variables.php:150
+msgid "H4"
+msgstr ""
+
+#: inc/customizer-custom-variables.php:160
+msgid "H4 font size in px"
+msgstr ""
+
+#: inc/customizer-custom-variables.php:171
+msgid "H4 color"
+msgstr ""
+
+#: inc/customizer-custom-variables.php:183
+msgid "H5"
+msgstr ""
+
+#: inc/customizer-custom-variables.php:193
+msgid "H5 font size in px"
+msgstr ""
+
+#: inc/customizer-custom-variables.php:204
+msgid "H5 color"
+msgstr ""
+
+#: inc/customizer-custom-variables.php:216
+msgid "H6"
+msgstr ""
+
+#: inc/customizer-custom-variables.php:226
+msgid "H6 font size in px"
+msgstr ""
+
+#: inc/customizer-custom-variables.php:237
+msgid "H6 color"
+msgstr ""
+
+#: inc/customizer-custom-variables.php:250
+msgid "Paragraph"
+msgstr ""
+
+#: inc/customizer-custom-variables.php:260
+msgid "Para font size in px"
+msgstr ""
+
+#: inc/customizer-custom-variables.php:271
+msgid "Para color"
+msgstr ""
+
+#: inc/customizer-custom-variables.php:289
+msgid "Heighlight color two (It will change it globally)"
+msgstr ""
+
+#: inc/customizer-part-footer.php:4
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer-part-footer.php:5
+msgid "Edit footer sections"
+msgstr ""
+
+#: inc/customizer-part-footer.php:15
+msgid "Show / Hide logo"
+msgstr ""
+
+#: inc/customizer-part-footer.php:24
+msgid "Show / Hide Social Icon"
+msgstr ""
+
+#: inc/customizer-part-footer.php:33
+msgid "Footer Heading Color"
+msgstr ""
+
+#: inc/customizer-part-footer.php:46
+msgid "Footer Heading Fonts"
+msgstr ""
+
+#: inc/customizer-part-footer.php:55
+msgid "Footer Content Color"
+msgstr ""
+
+#: inc/customizer-part-footer.php:68
+msgid "Footer Content Fonts"
+msgstr ""
+
+#: inc/customizer-part-footer.php:80
+msgid "Footer Content Fonts"
+msgstr ""
+
+#: inc/customizer-part-footer.php:83
+#: inc/customizer-part-home.php:21
+#: inc/customizer-part-home.php:98
+#: inc/customizer-part-home.php:237
+#: inc/customizer-part-home.php:384
+#: inc/customizer-part-home.php:595
+#: inc/customizer-part-home.php:664
+#: inc/customizer-part-home.php:772
+#: inc/customizer-part-home.php:842
+#: inc/customizer-part-home.php:941
+#: inc/customizer-part-topbar-header.php:20
+msgid "Enable"
+msgstr ""
+
+#: inc/customizer-part-footer.php:84
+#: inc/customizer-part-home.php:22
+#: inc/customizer-part-home.php:99
+#: inc/customizer-part-home.php:238
+#: inc/customizer-part-home.php:385
+#: inc/customizer-part-home.php:596
+#: inc/customizer-part-home.php:665
+#: inc/customizer-part-home.php:773
+#: inc/customizer-part-home.php:843
+#: inc/customizer-part-home.php:942
+#: inc/customizer-part-topbar-header.php:21
+msgid "Disable"
+msgstr ""
+
+#: inc/customizer-part-footer.php:94
+msgid "Background Color(Either add background color or background image, if you add both background color will be top most priority)"
+msgstr ""
+
+#: inc/customizer-part-footer.php:104
+#: inc/customizer-part-home.php:123
+#: inc/customizer-part-home.php:299
+#: inc/customizer-part-home.php:641
+#: inc/customizer-part-home.php:711
+#: inc/customizer-part-home.php:867
+#: inc/customizer-part-home.php:958
+msgid "Background image"
+msgstr ""
+
+#: inc/customizer-part-footer.php:110
+msgid "Contact"
+msgstr ""
+
+#: inc/customizer-part-footer.php:111
+msgid "Add contact page settings here."
+msgstr ""
+
+#: inc/customizer-part-footer.php:120
+msgid "Longitude"
+msgstr ""
+
+#: inc/customizer-part-footer.php:130
+msgid "Latitude"
+msgstr ""
+
+#: inc/customizer-part-footer.php:136
+msgid "Get In Touch"
+msgstr ""
+
+#: inc/customizer-part-footer.php:140
+msgid "Get In Touch Title"
+msgstr ""
+
+#: inc/customizer-part-footer.php:146
+#: page-template/contact.php:24
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris fringilla, est et mattis tempus, mauris neque commodo sapien, id consequat diam est a nibh. Donec consequat scelerisque augue mollis aliquam. Ut nec porttitor sapien, nec rutrum ligula."
+msgstr ""
+
+#: inc/customizer-part-footer.php:150 
+msgid "Sub Title"
+msgstr ""
+
+#: inc/customizer-part-footer.php:156
+#: page-template/contact.php:69
+msgid "Contact Form"
+msgstr ""
+
+#: inc/customizer-part-footer.php:160
+msgid "Contact Form Title"
+msgstr ""
+
+#: inc/customizer-part-footer.php:166
+#: page-template/contact.php:70
+msgid "Aliquam ac tempus lacus, in tempus nisl. Cras in auctor arcu. Phasellus orci erat, vestibulum a ante vitae, mollis feugiat nibh. Cras mattis dui eu eleifend dapibus. Donec eleifend bibendum tellus, et tincidunt nisl sagittis in. Nullam molestie lacus vitae dui rhoncus porta."
+msgstr ""
+
+#: inc/customizer-part-footer.php:181
+msgid "Email Title"
+msgstr ""
+
+#: inc/customizer-part-footer.php:187
+#: page-template/contact.php:46
+msgid "abc@gmail.com"
+msgstr ""
+
+#: inc/customizer-part-footer.php:198
+#: inc/customizer-part-footer.php:202
+#: inc/customizer-part-footer.php:212
+msgid "Address"
+msgstr ""
+
+#: inc/customizer-part-footer.php:208
+msgid "OceanView Hall Fl 44000!"
+msgstr ""
+
+#: inc/customizer-part-footer.php:218 
+#: inc/customizer-part-footer.php:232 
+#: page-template/contact.php:57
+msgid "Phone"
+msgstr ""
+
+#: inc/customizer-part-footer.php:222
+msgid "Phone Title"
+msgstr ""
+
+#: inc/customizer-part-footer.php:243
+msgid "Contact Heading Color"
+msgstr ""
+
+#: inc/customizer-part-footer.php:256
+msgid "Contact Heading Fonts"
+msgstr ""
+
+#: inc/customizer-part-footer.php:265
+msgid "Contact Content Color"
+msgstr ""
+
+#: inc/customizer-part-footer.php:278
+msgid "Contact Content Fonts"
+msgstr ""
+
+#: inc/customizer-part-footer.php:287
+msgid "Icon Color"
+msgstr ""
+
+#: inc/customizer-part-footer.php:292
+msgid "Footer Text"
+msgstr ""
+
+#: inc/customizer-part-footer.php:293
+msgid "Add some text for footer like copyright etc."
+msgstr ""
+
+#: inc/customizer-part-footer.php:298
+msgid "VW Charity Wordpress Theme 2018 | All Rights Reserved."
+msgstr ""
+
+#: inc/customizer-part-footer.php:302
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer-part-footer.php:308
+msgid "Shortcode Settings"
+msgstr ""
+
+#: inc/customizer-part-footer.php:309
+msgid "Add Shortcode here."
+msgstr ""
+
+#: inc/customizer-part-footer.php:314
+msgid "[list-causes], [donator], [event], [testimonials]"
+msgstr ""
+
+#: inc/customizer-part-footer.php:318
+msgid "Shortcode that are availaible in theme are[list-causes], [donator], [event], [testimonials]."
+msgstr ""
+
+#: inc/customizer-part-home.php:5
+msgid "Goals"
+msgstr ""
+
+#: inc/customizer-part-home.php:6
+msgid "Add Our Record content here."
+msgstr ""
+
+#: inc/customizer-part-home.php:18
+#: inc/customizer-part-home.php:95
+#: inc/customizer-part-home.php:234
+#: inc/customizer-part-home.php:381
+#: inc/customizer-part-home.php:475
+#: inc/customizer-part-home.php:592
+#: inc/customizer-part-home.php:661
+#: inc/customizer-part-home.php:769
+#: inc/customizer-part-home.php:839
+#: inc/customizer-part-home.php:938
+msgid "Do you want this section"
+msgstr ""
+
+#: inc/customizer-part-home.php:32
+msgid "Number of Goals to show"
+msgstr ""
+
+#: inc/customizer-part-home.php:41
+msgid "fas fa-calendar-check"
+msgstr ""
+
+#: inc/customizer-part-home.php:45
+#: inc/customizer-part-home.php:166
+#: inc/customizer-part-home.php:322
+#: inc/customizer-part-home.php:543
+msgid "Add Icon Class"
+msgstr ""
+
+#: inc/customizer-part-home.php:55
+#: inc/customizer-part-home.php:176
+msgid "Icon Image(Image Resolution 200*200)If you want to add image first remove the icon,"
+msgstr ""
+
+#: inc/customizer-part-home.php:61
+#: inc/customizer-part-home.php:129
+#: inc/customizer-part-home.php:182
+#: inc/customizer-part-home.php:249
+#: inc/customizer-part-home.php:262
+#: inc/customizer-part-home.php:337
+#: inc/customizer-part-home.php:567
+#: template-parts/home/our-records.php:32
+msgid "Title"
+msgstr ""
+
+#: inc/customizer-part-home.php:341
+msgid "Add Title"
+msgstr ""
+
+#: inc/customizer-part-home.php:65
+#: inc/customizer-part-home.php:186
+#: inc/customizer-part-home.php:450
+#: template-parts/home/causes.php:45
+msgid "Donate Now"
+msgstr ""
+
+#: inc/customizer-part-home.php:70
+#: inc/customizer-part-home.php:191
+#: template-parts/home/goals.php:35
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sed felis nunc. Maecenas eget leo suscipit"
+msgstr ""
+
+#: inc/customizer-part-home.php:74
+#: inc/customizer-part-home.php:195
+msgid "Service Content"
+msgstr ""
+
+#: inc/customizer-part-home.php:82
+msgid "What We Do"
+msgstr ""
+
+#: inc/customizer-part-home.php:83
+msgid "Add What We Do content here."
+msgstr ""
+
+#: inc/customizer-part-home.php:109
+#: inc/customizer-part-home.php:285
+#: inc/customizer-part-home.php:417
+#: inc/customizer-part-home.php:627
+#: inc/customizer-part-home.php:697
+#: inc/customizer-part-home.php:805
+#: inc/customizer-part-home.php:853
+msgid "Background Color"
+msgstr ""
+
+#: inc/customizer-part-home.php:111
+#: inc/customizer-part-home.php:286
+#: inc/customizer-part-home.php:465
+#: inc/customizer-part-home.php:628
+#: inc/customizer-part-home.php:698
+#: inc/customizer-part-home.php:806
+#: inc/customizer-part-home.php:854
+msgid "Either add background color or background image, if you add both background color will be top most priority"
+msgstr ""
+
+#: inc/customizer-part-home.php:890
+#: inc/customizer-part-home.php:795
+#: inc/customizer-part-home.php:687
+#: inc/customizer-part-home.php:618
+#: inc/customizer-part-home.php:407
+#: inc/customizer-part-home.php:143
+msgid "Sub text"
+msgstr ""
+
+#: inc/customizer-part-home.php:1271
+#: inc/customizer-part-home.php:1128
+#: inc/customizer-part-home.php:1016
+#: inc/customizer-part-home.php:866
+#: inc/customizer-part-home.php:285
+#: inc/customizer-part-home.php:640
+msgid "Sub Text Color"
+msgstr ""
+
+#: inc/customizer-part-home.php:1369
+#: inc/customizer-part-home.php:1262
+#: inc/customizer-part-home.php:1119
+#: inc/customizer-part-home.php:1007
+#: inc/customizer-part-home.php:857
+#: inc/customizer-part-home.php:631
+msgid "Section Title Fonts"
+msgstr ""
+
+#: inc/customizer-part-home.php:845
+#: inc/customizer-part-home.php:995
+#: inc/customizer-part-home.php:1107
+#: inc/customizer-part-home.php:1250
+#: inc/customizer-part-home.php:1357
+#: inc/customizer-part-home.php:619
+msgid "Section Title Color"
+msgstr ""
+
+#: inc/customizer-part-home.php:652
+#: inc/customizer-part-home.php:1140
+#: inc/customizer-part-home.php:878
+#: inc/customizer-part-home.php:1283
+#: inc/customizer-part-home.php:1028
+msgid "Sub Text Fonts"
+msgstr ""
+
+#: inc/customizer-part-home.php:153
+#: inc/customizer-part-home.php:531
+msgid "Number of record to show"
+msgstr ""
+
+#: inc/customizer-part-home.php:162
+msgid "fas fa-hand-holding-usd"
+msgstr ""
+
+#: inc/customizer-part-home.php:200
+#: inc/customizer-part-home.php:915
+#: template-parts/home/latest-post.php:52
+#: template-parts/home/what-we-do.php:43
+#: template-parts/post/post-content.php:33
+msgid "Read More"
+msgstr ""
+
+#: inc/customizer-part-home.php:204
+#: inc/customizer-part-home.php:919
+msgid "read More Text"
+msgstr ""
+
+#: inc/customizer-part-home.php:213
+msgid "read More Link"
+msgstr ""
+
+#: inc/customizer-part-home.php:221
+#: inc/customizer-part-home.php:244
+msgid "How Can You Help"
+msgstr ""
+
+#: inc/customizer-part-home.php:222
+msgid "Add How Can You Help content here."
+msgstr ""
+
+#: inc/customizer-part-home.php:257
+msgid "Help For Cause"
+msgstr ""
+
+#: inc/customizer-part-home.php:270
+#: inc/customizer-part-slide.php:255
+#: template-parts/home/how-can-you-help.php:32
+#: template-parts/home/slider.php:40
+msgid "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+msgstr ""
+
+#: inc/customizer-part-home.php:309
+msgid "Number of boxes to show"
+msgstr ""
+
+#: inc/customizer-part-home.php:318
+msgid "fas fa-comments"
+msgstr ""
+
+#: inc/customizer-part-home.php:346
+msgid "Lorem ipsum dolor sit amet, consectetur massa cursus sed. Vivamus fermentum aliquet"
+msgstr ""
+
+#: inc/customizer-part-home.php:350
+msgid "Add Description"
+msgstr ""
+
+#: inc/customizer-part-home.php:361
+msgid "Enter embed video Link"
+msgstr ""
+
+#: inc/customizer-part-home.php:368
+#: inc/customizer-part-home.php:391
+#: inc/customizer-part-home.php:779
+#: template-parts/home/causes.php:23
+msgid "Recent Causes"
+msgstr ""
+
+#: inc/customizer-part-home.php:369
+msgid "Add Causes content here."
+msgstr ""
+
+#: inc/customizer-part-home.php:967
+#: inc/customizer-part-home.php:878
+#: inc/customizer-part-home.php:784
+#: inc/customizer-part-home.php:676
+#: inc/customizer-part-home.php:607
+#: inc/customizer-part-home.php:396
+msgid "Section Title"
+msgstr ""
+
+#: inc/customizer-part-home.php:403
+#: inc/customizer-part-home.php:614
+#: inc/customizer-part-home.php:683
+#: inc/customizer-part-home.php:791
+#: inc/customizer-part-home.php:886
+#: template-parts/home/causes.php:26
+#: template-parts/home/donators.php:26
+#: inc/customizer-part-home.php:139
+#: inc/customizer-part-home.php:403
+#: inc/customizer-part-home.php:614
+#: inc/customizer-part-home.php:683
+#: inc/customizer-part-home.php:791
+#: inc/customizer-part-home.php:886
+#: template-parts/home/events.php:26
+#: template-parts/home/latest-post.php:26
+#: template-parts/home/testimonials.php:26
+#: template-parts/home/what-we-do.php:27
+msgid "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer."
+msgstr ""
+
+#: inc/customizer-part-home.php:963
+msgid "Newsletter sign up"
+msgstr ""
+
+#: inc/customizer-part-home.php:972
+msgid "Ut lobortis sapien ligula. Sed dapibus quam in sapien porttitor dignissim. Vivamus finibus pretium libero eget fermentum. Ut dictum congue orci a varius"
+msgstr ""
+
+#: inc/customizer-part-home.php:976
+msgid "Content"
+msgstr ""
+
+#: inc/customizer-part-home.php:981
+msgid "Add Contact Form 7 shortcode here"
+msgstr ""
+
+#: inc/customizer-part-home.php:992
+msgid "Blog Page"
+msgstr ""
+
+#: inc/customizer-part-home.php:993
+msgid "select the category you wish to be get displayed on blog page"
+msgstr ""
+
+#: inc/customizer-part-home.php:1013
+msgid "Blog page (select category to show selected post)"
+msgstr ""
+
+#: inc/customizer-part-slide.php:3
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/customizer-part-slide.php:4
+msgid "Add slider images here."
+msgstr ""
+
+#: inc/customizer-part-slide.php:26
+msgid "Number of slides to show"
+msgstr ""
+
+#: inc/customizer-part-slide.php:40
+msgid "Slider Image"
+msgstr ""
+
+#: inc/customizer-part-slide.php:45
+#: template-parts/home/slider.php:36
+msgid "Welcome to Charity Wordpress Theme"
+msgstr ""
+
+#: inc/customizer-part-slide.php:49
+msgid "Slide Heading Title"
+msgstr ""
+
+#: inc/customizer-part-slide.php:59
+msgid "Slide Text"
+msgstr ""
+
+#: inc/customizer-part-slide.php:65 
+#: inc/customizer-part-topbar-header.php:63
+#: template-parts/header/content-header.php:47
+#: template-parts/home/slider.php:43
+#: template-parts/home/what-we-do.php:38
+msgid "Donate Now"
+msgstr ""
+
+#: inc/customizer-part-slide.php:69
+#: inc/customizer-part-slide.php:89
+msgid "Slider Button Text"
+msgstr ""
+
+#: inc/customizer-part-slide.php:79
+#: inc/customizer-part-slide.php:204
+#: inc/customizer-part-slide.php:99
+#: inc/customizer-part-topbar-header.php:77
+msgid "Button URL"
+msgstr ""
+
+#: inc/customizer-part-slide.php:241
+#: inc/customizer-part-slide.php:463
+#: inc/customizer-part-slide.php:484
+msgid "Title Heading Color"
+msgstr ""
+
+#: inc/customizer-part-slide.php:500
+#: inc/customizer-part-slide.php:479
+#: inc/customizer-part-slide.php:257
+msgid "Title Heading Fonts"
+msgstr ""
+
+#: inc/customizer-part-slide.php:85
+msgid "Raise Refund"
+msgstr ""
+
+#: inc/customizer-part-slide.php:279
+msgid "Sub Heading Fonts"
+msgstr ""
+
+#: inc/customizer-part-slide.php:267
+msgid "sub Heading Color"
+msgstr ""
+
+#: inc/customizer-part-slide.php:111
+msgid "Slider Heading Color"
+msgstr ""
+
+#: inc/customizer-part-slide.php:124
+msgid "Slider Heading Fonts"
+msgstr ""
+
+#: inc/customizer-part-slide.php:134
+msgid "Slider Text Color"
+msgstr ""
+
+#: inc/customizer-part-slide.php:147
+msgid "Slider Text Fonts"
+msgstr ""
+
+#: inc/customizer-part-slide.php:157
+#: inc/customizer-part-home.php:294
+msgid "Button Text Color"
+msgstr ""
+
+#: inc/customizer-part-slide.php:166
+msgid "Button Background Color"
+msgstr ""
+
+#: inc/customizer-part-slide.php:178
+#: inc/customizer-part-home.php:306
+msgid "Button Text Fonts"
+msgstr ""
+
+#: inc/customizer-part-slide.php:188
+msgid "Show / Hide Number Bullets"
+msgstr ""
+
+#: inc/customizer-part-slide.php:197
+msgid "Show / Hide Next & Previous Arrows"
+msgstr ""
+
+#: inc/customizer-part-social-icons.php:4
+msgid "Social Icons"
+msgstr ""
+
+#: inc/customizer-part-social-icons.php:5
+msgid "Add social Icons details Here"
+msgstr ""
+
+#: inc/customizer-part-social-icons.php:15
+msgid "Add twitter link"
+msgstr ""
+
+#: inc/customizer-part-social-icons.php:26
+msgid "Add pinterest link"
+msgstr ""
+
+#: inc/customizer-part-social-icons.php:37
+msgid "Add facebook link"
+msgstr ""
+
+#: inc/customizer-part-social-icons.php:48
+msgid "Add Youtube link"
+msgstr ""
+
+#: inc/customizer-part-social-icons.php:59
+msgid "Add Instagram link"
+msgstr ""
+
+#: inc/customizer-part-social-icons.php:70
+msgid "Add Linkedin link"
+msgstr ""
+
+#: inc/customizer-part-social-icons.php:81
+msgid "Add Tumblr link"
+msgstr ""
+
+#: inc/customizer-part-social-icons.php:92
+msgid "Add GooglePlus link"
+msgstr ""
+
+#: inc/customizer-part-social-icons.php:103
+msgid "Add Flickr link"
+msgstr ""
+
+#: inc/customizer-part-social-icons.php:114
+msgid "Add VK link"
+msgstr ""
+
+#: inc/customizer-part-topbar-header.php:3
+msgid "Top Bar"
+msgstr ""
+
+#: inc/customizer-part-topbar-header.php:4
+msgid "Top Bar Settings"
+msgstr ""
+
+#: inc/customizer-part-topbar-header.php:31
+msgid "Add Address Here"
+msgstr ""
+
+#: inc/customizer-part-topbar-header.php:44
+msgid "Add Cell Number here"
+msgstr ""
+
+#: inc/customizer-part-topbar-header.php:56
+msgid "Add Email address Here"
+msgstr ""
+
+#: inc/customizer-part-topbar-header.php:67
+msgid "Header Button Text"
+msgstr ""
+
+#: inc/customizer-part-topbar-header.php:88
+msgid "Top Bar Contact Details Color"
+msgstr ""
+
+#: inc/customizer-part-topbar-header.php:101
+msgid "Top Bar contact details Font family"
+msgstr ""
+
+#: inc/customizer-part-topbar-header.php:110
+msgid "Top Bar contact icon Color"
+msgstr ""
+
+#: inc/customizer-part-topbar-header.php:120
+msgid "Top Bar Background Color"
+msgstr ""
+
+#: inc/customizer-part-topbar-header.php:134
+msgid "Top Bar Background image (1520px x 50px)"
+msgstr ""
+
+#: inc/customizer-part-topbar-header.php:144
+msgid "Header"
+msgstr ""
+
+#: inc/customizer-part-topbar-header.php:145
+msgid "Header Settings"
+msgstr ""
+
+#: inc/customizer-part-topbar-header.php:154
+msgid "Header Main title Color"
+msgstr ""
+
+#: inc/customizer-part-topbar-header.php:166
+msgid "Header Main title Font family"
+msgstr ""
+
+#: inc/customizer-part-topbar-header.php:175
+msgid "Header Background Color"
+msgstr ""
+
+#: inc/customizer-part-topbar-header.php:185
+msgid "Menu Item Color"
+msgstr ""
+
+#: inc/customizer-part-topbar-header.php:198
+msgid "Menu Item Fonts"
+msgstr ""
+
+#: inc/customizer-part-topbar-header.php:207
+msgid "Menu Item Hover Color"
+msgstr ""
+
+#: inc/customizer-part-topbar-header.php:218
+msgid "Menu DropDown Background Color"
+msgstr ""
+
+#: inc/customizer-part-topbar-header.php:228
+msgid "Menu DropDown Item Color"
+msgstr ""
+
+#: inc/customizer-part-topbar-header.php:238
+msgid "Menu DropDown Item Hover Color"
+msgstr ""
+
+#: inc/customizer-part-topbar-header.php:249
+msgid "Responsive Menu Background Color"
+msgstr ""
+
+#: inc/customizer-part-topbar-header.php:258
+msgid "Responsive Menu item DropDown Color"
+msgstr ""
+
+#: inc/customizer.php:28
+msgid "Theme Settings"
+msgstr ""
+
+#: inc/customizer.php:29
+msgid "Description of what this panel does."
+msgstr ""
+
+#: inc/customizer.php:206
+msgid "Get Mobile App"
+msgstr ""
+
+#: inc/customizer.php:207
+msgid "Click Here"
+msgstr ""
+
+#: inc/template-tags.php:88
+msgid " Fitness logo"
+msgstr ""
+
+#: inc/tgm.php:9
+msgid "VW Charity Pro Posttype"
+msgstr ""
+
+#: inc/tgm.php:16
+msgid "VW Title Banner Image"
+msgstr ""
+
+#: page-template/blog-fullwidth-extend.php:39 
+#: page-template/blog-with-left-sidebar.php:33 
+#: page-template/blog-with-right-sidebar.php:30
+msgid "Not Found"
+msgstr ""
+
+#: page-template/contact.php:23
+msgid "Get In Touch"
+msgstr ""
+
+#: page-template/contact.php:33
+msgid "Address Title"
+msgstr ""
+
+#: page-template/contact.php:34
+msgid "OceanView Hall Fl 44000!"
+msgstr ""
+
+#: page-template/gallery.php:30
+msgid "No Image Found"
+msgstr ""
+
+#: template-parts/footer/copyright.php:19
+msgid "&copy; 2018 VW Charity Wordpress Theme"
+msgstr ""
+
+#: template-parts/header/content-header.php:29
+msgid "Orlando, FL 32830, united States"
+msgstr ""
+
+#: template-parts/header/content-header.php:39
+msgid "abcdefxyz@gmail.com"
+msgstr ""
+
+#: template-parts/home/causes.php:91
+msgid "Please install VW Charity pro Posttype plugin and add your Causes to enable this section"
+msgstr ""
+
+#: template-parts/home/donators.php:23
+msgid "Latest Donators"
+msgstr ""
+
+#: template-parts/home/donators.php:56
+msgid "Please install VW Charity pro Posttype plugin and add your donors to enable this section"
+msgstr ""
+
+#: template-parts/home/events.php:23
+msgid "Upcoming Events"
+msgstr ""
+
+#: template-parts/home/events.php:68
+msgid "View All Events"
+msgstr ""
+
+#: template-parts/home/events.php:73
+msgid "Please install VW Charity pro Posttype plugin and add your Events to enable this section"
+msgstr ""
+
+#: template-parts/home/events.php:59
+msgid "Enroll Now"
+msgstr ""
+
+#: template-parts/home/goals.php:33
+msgid "fundraising"
+msgstr ""
+
+#: template-parts/home/goals.php:33
+msgid "fundraising"
+msgstr ""
+
+#: template-parts/home/how-can-you-help.php:44
+msgid "Lorem ipsum dolor sit amet, consectetur massa cursus sed. Vivamus fermentum aliquet "
+msgstr ""
+
+#: template-parts/home/how-can-you-help.php:43
+msgid "Media"
+msgstr ""
+
+#: template-parts/home/how-can-you-help.php:29
+#: template-parts/home/how-can-you-help.php:23
+msgid "How Can You Help"
+msgstr ""
+
+#: template-parts/home/latest-post.php:45
+msgid "Posted By:"
+msgstr ""
+
+#: template-parts/home/latest-post.php:46
+msgid "Posted On:"
+msgstr ""
+
+#: template-parts/home/latest-post.php:23
+msgid "latest news"
+msgstr ""
+
+#: template-parts/home/newsletter.php:26
+msgid "Newsletter sign up"
+msgstr ""
+
+#: template-parts/home/newsletter.php:29
+msgid "Ut lobortis sapien ligula. Sed dapibus quam in sapien porttitor dignissim. Vivamus finibus pretium libero eget fermentum. Ut dictum congue orci a varius"
+msgstr ""
+
+#: template-parts/home/slider.php:47
+msgid "Raise Refund"
+msgstr ""
+
+#: template-parts/home/testimonials.php:59
+msgid "Please install VW Charity pro Posttype plugin and add your Testimonials to enable this section"
+msgstr ""
+
+#: template-parts/home/testimonials.php:23
+msgid "What Our Donators Say"
+msgstr ""
+
+#: template-parts/home/what-we-do.php:40
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sed felis nunc. Maecenas eget leo suscipit"
+msgstr ""
+
+#: template-parts/home/what-we-do.php:24
+msgid "What We Do"
+msgstr ""
