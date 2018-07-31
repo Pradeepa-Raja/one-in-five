@@ -13,9 +13,7 @@
 	<link rel="profile" href="https://gmpg.org/xfn/11">
 	<link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
 	<link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
-	<script type="text/javascript" src="/wp-content/themes/one-in-five-child/js/main.js"></script>
-	<link rel="stylesheet" href="/wp-content/themes/one-in-five-child/css/demo.css">
-		<link rel="stylesheet" href="/wp-content/themes/one-in-five-child/css/style.css">
+	
 
 	<?php wp_head(); ?>
 	<script>
