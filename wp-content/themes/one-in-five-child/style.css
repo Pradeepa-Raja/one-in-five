@@ -70,7 +70,7 @@ nav li a { padding-right: 0 !important;}
 .what_we_do_outer.row .what_we_do_box:nth-child(2), .what_we_do_outer.row .what_we_do_box:nth-child(3), .what_we_do_outer.row .what_we_do_box:nth-child(4), .what_we_do_outer.row .what_we_do_box:nth-child(5){ width: 32% !important; background-size: 101%; padding-left: 0 !important; flex: inherit;}
 .what_we_do_outer.row .what_we_do_box:nth-child(1){ max-width: 66%; flex: inherit; margin-right: 11px;}
 .what_we_do_box { height: 376px; overflow: hidden; padding-left: 20px; margin-bottom: 6px;}
-.what_we_do_box .record_details { -webkit-transition: all 500ms ease-in; -moz-transition: all 500ms ease-in; transition: all 500ms ease-in; position: absolute; bottom: -78px; z-index: 1; background: #fff; color: #000 !important; width: 100% !important;}
+.what_we_do_box .record_details { -webkit-transition: all 500ms ease-in; -moz-transition: all 500ms ease-in; transition: all 500ms ease-in; position: absolute; bottom:-92px; z-index: 1; background: #fff; color: #000 !important; width: 100% !important;}
 .what_we_do.text-uppercase.font-weight-bold { position: absolute; height: 78px; border: 1px solid #00b6f0; bottom: 0; width: 100%; background: rgba(225,225,225,0.6);}
 .what_we_do_box:hover h6 { bottom: 98px !important; webkit-transition: all 500ms ease-in; -moz-transition: all 500ms ease-in;transition: all 500ms ease-in;}
 .what_we_do_box:hover .record_details { bottom: -20px; opacity: 1; padding: 20px; line-height: 28px; width: 100%;height: 103px; }
