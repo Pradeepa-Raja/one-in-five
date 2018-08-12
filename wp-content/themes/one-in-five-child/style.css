@@ -244,9 +244,9 @@ border-bottom: 20px solid #2f2f2f;}
 .phd-holder strong { padding: 10px 0; display: block; font-size: 15px;}
 .fa-bars::before, .fa-navicon::before, .fa-reorder::before{ font-family: fontAwesome;}
 /* florida */
-.florey-content { font-size: 22px; float: right; width: 52%;}
+.florey-content { font-size: 22px; float: right; width: auto;}
 .florey-content img{ float: left; width: 46%; padding-left: 16px;}
-.improving-lives{ width: 51%; float: right; padding-left: 16px; border-left: 1px solid #f1173f; padding-top: 22px;padding-bottom: 25px; color: #f1173f; font-weight: 600;}
+.improving-lives{ width: 280px; float: right; padding-left: 16px; border-left: 1px solid #f1173f; padding-top: 22px;padding-bottom: 25px; color: #f1173f; font-weight: 600;}
 .profile-readmorecontent { text-align: justify; width: 54%;float: right; position: relative;}
 .andrea-gogos h4::after { position: absolute; top: 24px; height: 0; width: 24px; content: ''; border-bottom: 3px solid #00b6f0; left: 2px;}
 .profile-readmorecontent p { padding-top: 13px;}
@@ -257,6 +257,15 @@ border-bottom: 20px solid #2f2f2f;}
 #lifeline{ text-align: right; display: block; float: right;position: absolute;right: 0;}
 #first .close { top: 3px; position: absolute; background: none !important; border: none !important; font-size: 19px; right: 5px; color: #000;}
 #first a { color: #fff !important;}
+.final-section { width: 200px; float: right;}
+/* Accordin */
+#accordions-699 .accordions-head-title { font-family: 'vag_roundedregular'; color: #00b6f0;}
+#accordions-699 .accordion-icons { color: #00b6f0; font-size: 9px; padding-top: 4px;}
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default, .ui-button, html .ui-button.ui-state-disabled:hover, html .ui-button.ui-state-disabled:active{ border: 1px solid #00b6f0;}
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active, a.ui-button:active, .ui-button:active, .ui-button.ui-state-active:hover{ border: 1px solid #00b6f0; }
+.ui-widget-content{ border: 1px solid #00b6f0;}
+.ui-state-hover { border: 1px solid #00b6f0 !important;}
+#accordions-699 .accordions-head{ background: #fff;}
 /*Testimonial Slider*/
 .testimonial-list{ width: 73%; margin: 0 auto;}
 .text.testimonial_rotator_description h2 { font-size: 17px; font-weight: bold;}
@@ -266,6 +275,10 @@ border-bottom: 20px solid #2f2f2f;}
 .custom-location-field { float: left; padding-right: 10px; margin-bottom: 10px;}
 .donate-right p { text-align: center; width: 74%; margin: 0 auto; }
 .donate-right img { width: 153px;}
+
+@media screen and (max-width: 1430px) {
+.vc_row.wpb_row.vc_row-fluid.banner-up.vc_custom_1533794191147.vc_row-has-fill { margin-top: 0 !important;}
+}
 @media screen and (max-width: 1200px) {
 .what_we_do_outer.row .what_we_do_box:nth-child(3), .what_we_do_outer.row .what_we_do_box:nth-child(4), .what_we_do_outer.row .what_we_do_box:nth-child(5){
 	width: 278px !important;}
