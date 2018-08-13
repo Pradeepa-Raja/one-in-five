@@ -259,13 +259,15 @@ border-bottom: 20px solid #2f2f2f;}
 #first a { color: #fff !important;}
 .final-section { width: 200px; float: right;}
 /* Accordin */
-#accordions-699 .accordions-head-title { font-family: 'vag_roundedregular'; color: #00b6f0;}
-#accordions-699 .accordion-icons { color: #00b6f0; font-size: 9px; padding-top: 4px;}
+.funded-item { float: left; width: 270px;}
+#accordions-699 p, #accordions-701 p{ line-height: 23px;}
+#accordions-699 .accordions-head-title, #accordions-701 .accordions-head-title  { font-family: 'vag_roundedregular'; color: #00b6f0;}
+#accordions-699 .accordion-icons,#accordions-701 .accordion-icons { color: #00b6f0 !important; font-size: 9px !important; padding-top: 4px !important;}
 .ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default, .ui-button, html .ui-button.ui-state-disabled:hover, html .ui-button.ui-state-disabled:active{ border: 1px solid #00b6f0;}
 .ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active, a.ui-button:active, .ui-button:active, .ui-button.ui-state-active:hover{ border: 1px solid #00b6f0; }
 .ui-widget-content{ border: 1px solid #00b6f0;}
 .ui-state-hover { border: 1px solid #00b6f0 !important;}
-#accordions-699 .accordions-head{ background: #fff;}
+#accordions-699 .accordions-head, #accordions-701 .accordions-head{ background: #fff  !important;}
 /*Testimonial Slider*/
 .testimonial-list{ width: 73%; margin: 0 auto;}
 .text.testimonial_rotator_description h2 { font-size: 17px; font-weight: bold;}
@@ -278,6 +280,9 @@ border-bottom: 20px solid #2f2f2f;}
 
 @media screen and (max-width: 1430px) {
 .vc_row.wpb_row.vc_row-fluid.banner-up.vc_custom_1533794191147.vc_row-has-fill { margin-top: 0 !important;}
+}
+@media screen and (max-width: 1300px) {
+.funded-item.funded-item2 { width: 100px;}
 }
 @media screen and (max-width: 1200px) {
 .what_we_do_outer.row .what_we_do_box:nth-child(3), .what_we_do_outer.row .what_we_do_box:nth-child(4), .what_we_do_outer.row .what_we_do_box:nth-child(5){
